@@ -1,3 +1,4 @@
 in the theory of swapping th e coloumns we wanted that even if in millions od data the coloums are swapped and the data
 which is in millions is also swapped without rewritting like here the email amd passwords are swapped
 1)the id is taken normally not MAX(id) as sql knows that id is unique for all the rows 
+2)you cannot change the arrangements 
