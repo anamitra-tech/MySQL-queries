@@ -12,3 +12,6 @@ ORDER BY
     g.Grade DESC,
     Name ASC,
     s.Marks ASC;
+
+
+-- between-> maps the real marks with the range
