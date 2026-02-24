@@ -1,5 +1,6 @@
 use wscube;
 
+
 INSERT INTO users
 (id, name, email, password, contact, address, dob, gender, status)
 VALUES
